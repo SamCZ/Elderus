@@ -1,7 +1,7 @@
 # Elderus
 Unity minecraft generator
 
-For random generating you must chnage seed in World class
+For random generating change seed in Word class
 ![alt tag](http://image.prntscr.com/image/0a2287db20214153b42e7f8e7fa68728.png)
 
 When is all chunks genereted
