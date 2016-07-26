@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\renderer\BlockRenderer.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EntityRenderer.cs" Line="16" Column="18" />
+      <File FileName="Assets\Scripts\renderer\WorldRenderer.cs" Line="49" Column="1" />
+      <File FileName="Assets\Scripts\renderer\BlockRenderer.cs" Line="10" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
